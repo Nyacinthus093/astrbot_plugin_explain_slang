@@ -1,0 +1,6 @@
+name: astrbot_plugin_explain_slang
+desc: 黑话/缩写解释器，调用“能不能好好说话(nbnhhsh)”接口解释拼音首字母缩写
+help: 发送 /解释 <缩写或文本> 即可查询对应含义
+version: v1.0.0
+author: Nyacinthus093
+repo: https://github.com/Nyacinthus093/astrbot_plugin_explain_slang
